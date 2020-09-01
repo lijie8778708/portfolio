@@ -144,7 +144,7 @@ export default class Projects extends React.Component {
 								}>
 								<div className="overlay">
 									<div className="text">
-										<h2>Maza Generator and Solver</h2>
+										<h2>Maze Generator and Solver</h2>
 									</div>
 									<div>
 										<button
